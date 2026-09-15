@@ -5,7 +5,7 @@ We will get the current ISS latitude and the current ISS longitude<br><br><br>
 ```
 ISS Current Location around 11:25PM is  
 -Latitude : 48.4844  
--Longitude: 64.3481<br><br>
+-Longitude: 64.3481  
 
 ISS Current Location around 11:27PM is  
 -Latitude : 51.0047  
